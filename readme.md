@@ -1,0 +1,1 @@
+# Yeni Sınıf Ve Yeni Metotlar Oluşturularak Bir Dizi İçindeki Elemanların Harmonik Seri Toplamını Ve Harmonik Ortalamasını Hesaplayan Program.
